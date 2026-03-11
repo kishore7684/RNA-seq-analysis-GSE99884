@@ -37,3 +37,43 @@ NumPy
 Matplotlib
 Seaborn
 Jupyter Notebook
+
+## Analysis Workflow
+
+GEO Dataset (GSE99884)
+
+↓
+
+Raw RNA-seq Count Matrix
+
+↓
+
+Data Preprocessing (Filtering + Normalization)
+
+↓
+
+Differential Gene Expression Analysis
+
+↓
+
+Visualization (PCA, Heatmap, Volcano Plot)
+
+↓
+
+Biological Interpretation
+
+
+
+## Reproducibility
+
+Clone the repository
+
+git clone https://github.com/kishore7684/RNA-seq-analysis-GSE99884.git
+
+Install dependencies
+
+pip install -r requirements.txt
+
+Run the analysis notebook
+
+notebooks/RNA-seq analysis project.ipynb
