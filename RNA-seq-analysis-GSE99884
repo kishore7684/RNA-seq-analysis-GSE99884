@@ -1,0 +1,15 @@
+RNA-seq-analysis-GSE99884
+│
+├── data
+│   ├── raw
+│   └── processed
+│
+├── notebooks
+│
+├── scripts
+│
+├── results
+│
+├── figures
+│
+└── README.md
